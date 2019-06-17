@@ -1,3 +1,3 @@
 # ICS4U-Portfolio
 
-## [My Website]([I'm an inline-style link](https://www.google.com))
+## [My Website](https://noah124.github.io/ICS4U-Portfolio/)
