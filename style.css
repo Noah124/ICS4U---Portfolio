@@ -5,12 +5,14 @@
   padding:10px;
 }
 
+/* Dropdown Menus */
 
 /*Big image */
 
 .hImg{
   width: 100%;
   z-index: 1;
+  margin-bottom: 10px;
 }
 
 .hText{
