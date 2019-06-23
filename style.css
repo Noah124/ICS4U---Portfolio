@@ -1,34 +1,5 @@
-.sidebar {
-  height: 100%;
-  width: 200px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  background-color: rgb(150,100,100);
-  padding-top: 20px;
-}
-
-.sidebar a {
-  padding: 10px 0px 10px 16px;
-  text-decoration: none;
-  font-size: 20px;
-  color: rgb(0,0,0);
-  display: block;
-}
-
-.sidebar a:hover {
-  background-color: rgb(50,50,50);
-}
-
-.whole {
-  margin-left: 200px;
-  padding: 0px 10px;
-}
-
-#mainTitle{
-    background: rgb(255,255,0);
-}
-
-#ejs {
-  width: 100px;
+#header{
+  background-color: rgb(0,0,0);
+  color:  rgb(255,255,255);
+  margin-bottom: 20px;
 }
