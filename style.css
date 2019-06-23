@@ -16,7 +16,7 @@
 .hText{
   position: absolute;
   text-align: center;
-  top: 15%;
+  top: 80px;
   width: 100%;
   font-weight: bold;
   z-index:2;
