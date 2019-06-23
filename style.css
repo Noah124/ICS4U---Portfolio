@@ -40,7 +40,7 @@ button{
 
 /*Github well */
 .well {
-  background-colr: rgba(255, 0, 0) !important;
+  background-colr: rgba(255, 0, 0);
 }
 
 .ghc{
