@@ -1,5 +1,30 @@
+/* Bar at top */
 #header{
   background-color: rgb(0,0,0);
   color:  rgb(255,255,255);
-  margin-bottom: 20px;
+  padding:10px;
+}
+
+
+/*Big image */
+
+.hImg{
+  width: 100%;
+  z-index: 1;
+}
+
+.hText{
+  position: absolute;
+  text-align: center;
+  top: 15%;
+  width: 100%;
+  font-weight: bold;
+  z-index:2;
+}
+
+/*Github well */
+.ghc{
+  padding: 10px;
+  border: 3px solid;
+  background-color: rgb(0,255,200);
 }
