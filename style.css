@@ -40,7 +40,11 @@ button{
 
 /*Github well */
 .well {
-  background-colr: rgba(255, 0, 0);
+    background: rgb(245, 245, 245) !important;
+}
+
+div.well {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .ghc{
@@ -55,10 +59,6 @@ li{
 
 .summary{
   font-size: 1.5em;
-}
-
-.moduleImg{
-  width: 15%;
 }
 
 .bodyH{
